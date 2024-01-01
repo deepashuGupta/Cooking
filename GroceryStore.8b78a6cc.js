@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequire78f3;(0,e.register)("3XGRA",function(r,i){Object.defineProperty(r.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(r.exports,"default",{get:()=>t,set:void 0,enumerable:!0,configurable:!0});var l=e("ayMG0"),t=()=>(0,l.jsx)("div",{children:(0,l.jsx)("h1",{children:"This is grocery Store. This will create different bundle."})})});
+//# sourceMappingURL=GroceryStore.8b78a6cc.js.map
