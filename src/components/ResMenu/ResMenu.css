@@ -1,0 +1,43 @@
+.menu-container{
+    margin: 30px auto;
+    padding: 10px 0;
+    width: 50vw;
+}
+
+.res-details-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.res-details>p{
+    margin-top: 3px;
+    font-size: 12px;
+}
+
+.res-rating{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 70px;
+    height: 55px;
+    font-size: 12px;
+}
+
+.rating-line{
+    height: 2px;
+    width: 100%;
+    background-color: rgb(227, 227, 227);
+}
+
+.offer-card-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+/* .menu-item-container{
+    height: 100px;
+    background-color: antiquewhite;
+} */

@@ -1,0 +1,23 @@
+.offer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 60px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 5px 5px;
+}
+
+.offer-heading{
+    display: flex;
+    align-items: center;
+}
+
+.offer-heading>img {
+    width: 20px;
+}
+
+.offer-container>p{
+    font-size: 10px;
+}
